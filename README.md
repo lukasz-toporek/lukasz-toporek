@@ -23,7 +23,7 @@ Solution Architect & Engineering Manager based in Gdańsk, Poland.
 - Bridge technical complexity and business goals
 - Mentor developers at all levels
 
-**Certified:** Claude Certified Architect – Foundations (Anthropic, 2026)
+**Certified:** [Claude Certified Architect – Foundations](https://www.credly.com/badges/14f8a027-4fe8-457d-a702-4d9d62991ef9) (Anthropic, 2026)
 
 **Education:** Gdańsk University of Technology, Informatics
 
