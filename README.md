@@ -19,7 +19,7 @@ Solution Architect & Engineering Manager based in Gdańsk, Poland.
 - Python scripting & tooling
 
 **What I do beyond the code:**
-- Lead and scale engineering teams (20+ people)
+- Lead and scale engineering teams
 - Bridge technical complexity and business goals
 - Mentor developers at all levels
 
